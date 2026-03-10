@@ -2,12 +2,14 @@
 
 ## Informações Gerais
 
-Nome:
-Matricula:
+Nome: Alexandre Soutelo Vilela      
+Matricula: 917073
 
 ## Tela de inspeção com navegador
 
-`<Coloque aqui o print da tela de inspeção do seu navegador>`
+ print da tela de inspeção do seu navegador
+ ![Puc](images/Captura%20de%20tela%202026-03-10%20195149.png)
+ ![Nome](images/Captura%20de%20tela%202026-03-10%20195903.png)git 
 
 
 
