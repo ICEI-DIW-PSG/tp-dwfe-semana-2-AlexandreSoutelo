@@ -10,7 +10,7 @@ body{
 }
 
 
-/* HEADER */
+
 
 
 header{
@@ -33,9 +33,6 @@ nav a{
     text-decoration: none;
     font-size: 1.2rem;
 }
-
-
-/* PERFIL */
 
 
 .perfil{
@@ -71,8 +68,6 @@ nav a{
 }
 
 
-/* REDES */
-
 
 .redes {
     display: flex;
@@ -88,8 +83,6 @@ nav a{
 }
 
 
-/* HABILIDADES */
-
 
 .habilidades{
     margin-top: 40px;
@@ -102,9 +95,6 @@ nav a{
     display: inline-block;
     text-align: left;
 }
-
-
-/* FOOTER */
 
 
 footer {
