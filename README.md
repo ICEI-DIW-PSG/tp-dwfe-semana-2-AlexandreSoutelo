@@ -11,6 +11,9 @@ Matricula: 917073
  ![Puc](images/Captura%20de%20tela%202026-03-10%20195149.png)
  ![Nome](images/Captura%20de%20tela%202026-03-10%20195903.png)git 
 
+print da tela da atividade da semana 4
+![Print](images/Captura%20de%20tela%202026-03-13%20002323.png)
+
 
 
 ## Orientações sobre Linguagem MarkDown
